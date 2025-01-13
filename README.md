@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="70%">
       <p align="justify">
         🇧🇷 $\textcolor{green}{Eu\ gosto\ de\ desenvolver\ jogos\ e\ programas\ em\ geral}$.<br>
         🇺🇸 $\textcolor{red}{I\ like\ developing\ games\ and\ programs\ in\ general}$.
