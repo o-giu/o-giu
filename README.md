@@ -1,11 +1,11 @@
 # 👋🏻 Giu <img src="https://views.whatilearened.today/views/github/o-giu/views.svg"/>
-
+[Games](https://github.com/stars/o-giu/lists/games)
 <table>
   <tr>
     <td width="70%">
       <p align="justify">
         🇧🇷 $\textcolor{green}{Eu\ gosto\ de\ desenvolver\ jogos\ e\ programas\ em\ geral}$.<br>
-        🇺🇸 $\textcolor{red}{I\ like\ developing\ games\ and\ programs\ in\ general}$.
+        🇺🇸 $\textcolor{red}{I\ like\ developing\ games\ and\ programs\ in\ general}$.        
       </p>
       <hr> <!-- Linha separadora -->
       <p align="justify">
