@@ -1,5 +1,5 @@
 # 👋🏻 Giu <img src="https://views.whatilearened.today/views/github/o-giu/views.svg"/>
-[Games](https://github.com/stars/o-giu/lists/games)
+[Games](https://github.com/stars/o-giu/lists/games) | [Automations](https://github.com/stars/o-giu/lists/automations)
 <table>
   <tr>
     <td width="70%">
