@@ -1,5 +1,5 @@
 # 👋🏻 Giu <img src="https://views.whatilearened.today/views/github/o-giu/views.svg"/>
-[Games](https://github.com/stars/o-giu/lists/games) | [Automations](https://github.com/stars/o-giu/lists/automations) | [Bots](https://github.com/stars/o-giu/lists/bots) | [Utilitys](https://github.com/stars/o-giu/lists/utilitys)
+<!-- [Games](https://github.com/stars/o-giu/lists/games) | [Automations](https://github.com/stars/o-giu/lists/automations) | [Bots](https://github.com/stars/o-giu/lists/bots) | [Utilitys](https://github.com/stars/o-giu/lists/utilitys) -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> $\textcolor{green}{Eu\ gosto\ de\ desenvolver\ jogos\ e\ programas\ em\ geral}$.<br><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> $\textcolor{red}{I\ like\ developing\ games\ and\ programs\ in\ general}$.<br><br> -->
 | | |
 |:--|--:|
