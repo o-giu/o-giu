@@ -1,8 +1,20 @@
-# 👋🏻 Giu <img src="https://views.whatilearened.today/views/github/o-giu/views.svg"/>
-<!-- [Games](https://github.com/stars/o-giu/lists/games) | [Automations](https://github.com/stars/o-giu/lists/automations) | [Bots](https://github.com/stars/o-giu/lists/bots) | [Utilitys](https://github.com/stars/o-giu/lists/utilitys) -->
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="20"/> $\textcolor{green}{Eu\ gosto\ de\ desenvolver\ jogos\ e\ programas\ em\ geral}$.<br><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos EUA" width="20"/> $\textcolor{red}{I\ like\ developing\ games\ and\ programs\ in\ general}$.<br><br> -->
-| | |
-|:--|--:|
-| <div align="justify">![Bash](https://img.shields.io/badge/Bash-4A4A4A?style=flat&logoColor=white) ![C](https://img.shields.io/badge/C-4A4A4A?style=flat&logoColor=white) ![C++](https://img.shields.io/badge/C++-4A4A4A?style=flat&logoColor=white) ![C#](https://img.shields.io/badge/C%23-4A4A4A?style=flat&logo=csharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-4A4A4A?style=flat&logoColor=white) ![Java](https://img.shields.io/badge/Java-4A4A4A?style=flat&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-4A4A4A?style=flat&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-4A4A4A?style=flat&logoColor=white) ![Python](https://img.shields.io/badge/Python-4A4A4A?style=flat&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-4A4A4A?style=flat&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-4A4A4A?style=flat&logoColor=white) ![OCR](https://img.shields.io/badge/OCR-4A4A4A?style=flat&logoColor=white) ![React](https://img.shields.io/badge/React-4A4A4A?style=flat&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4A4A4A?style=flat&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4A4A4A?style=flat&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-4A4A4A?style=flat&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-4A4A4A?style=flat&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-4A4A4A?style=flat&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-4A4A4A?style=flat&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-4A4A4A?style=flat&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-4A4A4A?style=flat&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-4A4A4A?style=flat&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4A4A4A?style=flat&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-4A4A4A?style=flat&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-4A4A4A?style=flat&logoColor=white) ![Parsec](https://img.shields.io/badge/Parsec-4A4A4A?style=flat&logoColor=white) ![OBS](https://img.shields.io/badge/OBS-4A4A4A?style=flat&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-4A4A4A?style=flat&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-4A4A4A?style=flat&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal-4A4A4A?style=flat&logoColor=white) ![Audacity](https://img.shields.io/badge/Audacity-4A4A4A?style=flat&logoColor=white) ![OpenSource](https://img.shields.io/badge/OpenSource-4A4A4A?style=flat&logoColor=white) ![Arch](https://img.shields.io/badge/Arch-4A4A4A?style=flat&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-4A4A4A?style=flat&logoColor=white) ![TOR](https://img.shields.io/badge/TOR-4A4A4A?style=flat&logoColor=white) ![R36S](https://img.shields.io/badge/R36S-4A4A4A?style=flat&logoColor=white)</div> | <img src="https://github.com/user-attachments/assets/e044306e-3401-4f9c-8ec2-94b8ad1b1f9f" width="1000" alt="Imagem do perfil"> |
+https://codeberg.org/oGiu
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-giu&hide_progress=true)
+<!--<table border="0" width="100%">
+  <tr>
+    <td valign="top" align="left">
+      <img src="https://img.shields.io/badge/Bash-4A4A4A?style=flat&logoColor=white" alt="Bash">
+      <img src="https://img.shields.io/badge/C++-4A4A4A?style=flat&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Python-4A4A4A?style=flat&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/OpenCV-4A4A4A?style=flat&logoColor=white" alt="OpenCV">
+      <img src="https://img.shields.io/badge/OCR-4A4A4A?style=flat&logoColor=white" alt="OCR">
+      <img src="https://img.shields.io/badge/Pi--hole-4A4A4A?style=flat&logoColor=white" alt="Pi-hole">
+      <img src="https://img.shields.io/badge/OpenSource-4A4A4A?style=flat&logoColor=white" alt="OpenSource">      
+      <img src="https://img.shields.io/badge/Linux-4A4A4A?style=flat&logoColor=white" alt="Linux">
+      <img src="https://img.shields.io/badge/Fedora-4A4A4A?style=flat&logoColor=white" alt="Fedora">
+    </td>
+    <td valign="top" align="right" style="min-width: 200px;">
+      <img src="https://codeberg.org/oGiu/.profile/raw/branch/main/images/01_p.png" width="200" alt="Imagem do perfil">
+    </td>
+  </tr>
+</table>-->
